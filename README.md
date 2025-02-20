@@ -1,3 +1,3 @@
-<h1>#Milestone1</h1>
-* its a multi vendor e-commerce website where user can purchase order, talk with the product seller, if user want to sell his product , he can became admin.
-* Tech stack mern stack with tailwind css
+<h1>#Milestone10</h1>
+* Builded a POST endpoint to receive product data.
+ and created Validate and save the product details to MongoDB.*
